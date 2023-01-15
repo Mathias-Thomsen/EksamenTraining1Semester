@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea8ffa6c-7438-4d47-9a83-9ab6df4389b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/prøveeksamen1/HogwartsStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/prøveeksamen1/SortByLastName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/prøveeksamen2/Beer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse1/Tekst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse10/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse11/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse12/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse13/Julegave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse14/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse16/ExamQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse17/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse17/Election.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse2/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse2/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse3/Raflebæger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse4/Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse5/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse6/Bil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse6/Trailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse7/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse8/DateAgeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse9/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eksamenTraining/øvelse9/SataDrive.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JtoMWlL1PHoV6ESGaqvSpKzS22" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mathias\IdeaProjects\EksamenTraining\src\main\java\eksamenTraining\øvelse16" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea8ffa6c-7438-4d47-9a83-9ab6df4389b6" name="Changes" comment="" />
+      <created>1672906695509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672906695509</updated>
+      <workItem from="1672906697145" duration="19554000" />
+      <workItem from="1673348155257" duration="13870000" />
+      <workItem from="1673430593764" duration="12172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
